@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741983343859",
+    "project_id": "crashliticsexsample",
+    "storage_bucket": "crashliticsexsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741983343859:android:3150bb307eefa65d87d386",
+        "android_client_info": {
+          "package_name": "com.example.crashliticsexsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741983343859-q2sm68vq78pp7325ercc5uoc7ulgbsgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIO8Ugg3Kp1jDOkTz-ueXRhcgfAxwrIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741983343859-q2sm68vq78pp7325ercc5uoc7ulgbsgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
